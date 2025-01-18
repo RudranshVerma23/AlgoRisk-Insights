@@ -28,8 +28,3 @@ Alice now wants to build a portfolio and comes to you for help choosing stocks f
  closing price on the same graph using Matplotlib.  
  (It’s completely fine if you don’t understand how the moving averages work. We will cover it next
  time. This question is just to test your coding skills.)
- ### Problem 4. (Optional) 
- You recently came across [this article](https://www.investopedia.com/terms/w/weekendeffect.asp) and decided to test it. Test the weekend
- effect on NIFTY50, DOW JONES, FTSE 100, and DAX; compare the results of the different world
- indices for the period, same as in Problem 3, and comment on whether the effect is true for them.
- You should compare the days based on whatever metrics you feel are suitable.
